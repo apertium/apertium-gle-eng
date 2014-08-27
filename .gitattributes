@@ -3,6 +3,7 @@
 /apertium-gle-eng.eng.dix -text
 /apertium-gle-eng.gle-eng.dix -text
 /apertium-gle-eng.gle.dix -text
+dev/fgb.eng-gle.txt -text
 dev/gov-dept-en -text
 dev/gov-dept-ga -text
 dev/marker_words.ga -text
