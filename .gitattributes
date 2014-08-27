@@ -1,0 +1,18 @@
+* text=auto !eol
+/Makefile -text
+/apertium-en-ga.en-ga.dix -text
+/apertium-en-ga.en.dix -text
+/apertium-en-ga.ga.dix -text
+dev/gov-dept-en -text
+dev/gov-dept-ga -text
+dev/story.en.txt -text
+dev/story.ga.txt -text
+dev/tools/evaluation/evaltool -text
+dev/tools/irishionary/data/irishionary.com.ga-en.pdf -text
+dev/tools/irishionary/irishionary-pos.txt -text
+dev/tools/irishionary/irishionary.pl -text
+dev/tools/irishionary/irishionary.sh -text
+dev/tools/irishionary/lib/DicEntry.pm -text
+dev/tools/irishionary/output/irishionary_2010-01-27_18-09.csv -text
+/ga-en.prob -text
+/marker_words.ga -text
