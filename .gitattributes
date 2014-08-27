@@ -1,8 +1,8 @@
 * text=auto !eol
 /Makefile -text
-/apertium-en-ga.en-ga.dix -text
-/apertium-en-ga.en.dix -text
-/apertium-en-ga.ga.dix -text
+/apertium-gle-eng.en.dix -text
+/apertium-gle-eng.ga.dix -text
+/apertium-gle-eng.gle-eng.dix -text
 dev/gov-dept-en -text
 dev/gov-dept-ga -text
 dev/story.en.txt -text
