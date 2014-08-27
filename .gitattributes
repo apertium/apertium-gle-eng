@@ -1,10 +1,11 @@
 * text=auto !eol
 /Makefile -text
-/apertium-gle-eng.en.dix -text
-/apertium-gle-eng.ga.dix -text
+/apertium-gle-eng.eng.dix -text
 /apertium-gle-eng.gle-eng.dix -text
+/apertium-gle-eng.gle.dix -text
 dev/gov-dept-en -text
 dev/gov-dept-ga -text
+dev/marker_words.ga -text
 dev/story.en.txt -text
 dev/story.ga.txt -text
 dev/tools/evaluation/evaltool -text
@@ -14,5 +15,4 @@ dev/tools/irishionary/irishionary.pl -text
 dev/tools/irishionary/irishionary.sh -text
 dev/tools/irishionary/lib/DicEntry.pm -text
 dev/tools/irishionary/output/irishionary_2010-01-27_18-09.csv -text
-/ga-en.prob -text
-/marker_words.ga -text
+/gle-eng.prob -text
