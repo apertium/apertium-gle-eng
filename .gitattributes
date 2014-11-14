@@ -1,8 +1,21 @@
 * text=auto !eol
-/Makefile -text
+/Makefile.am -text
+/apertium-gle-eng.eng-gle.lrx -text
+/apertium-gle-eng.eng-gle.rlx -text
+/apertium-gle-eng.eng-gle.t1x -text
+/apertium-gle-eng.eng-gle.t2x -text
+/apertium-gle-eng.eng-gle.t3x -text
+/apertium-gle-eng.eng.acx -text
 /apertium-gle-eng.eng.dix -text
 /apertium-gle-eng.gle-eng.dix -text
+/apertium-gle-eng.gle-eng.lrx -text
+/apertium-gle-eng.gle-eng.rlx -text
+/apertium-gle-eng.gle-eng.t1x -text
+/apertium-gle-eng.gle-eng.t2x -text
+/apertium-gle-eng.gle-eng.t3x -text
 /apertium-gle-eng.gle.dix -text
+/autogen.sh -text
+/configure.ac -text
 dev/fgb.eng-gle.txt -text
 dev/gov-dept-en -text
 dev/gov-dept-ga -text
