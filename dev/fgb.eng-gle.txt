@@ -906,7 +906,6 @@ aincheart	Unjust
 aincheas	Doubt
 aincheas	 perplexity
 aincheist	 Dilemma
-ainchinn	
 ainchinn	 to fester
 ainchion	 Grievous offence
 ainchíos	 Rack-rent
@@ -2532,7 +2531,6 @@ arae	 because
 arae	For
 arae	 however
 aragail	 Ledge
-araí	
 araí	Appearance
 Araibis	 Arabic
 araí	Bridle
@@ -2682,7 +2680,6 @@ ardtiarna	 Overlord
 ardtiarnas	 Overlordship
 ardtráthnóna	 Mid-afternoon
 ardtréas	 High treason
-ardú	
 ardualach	 Load hoisted on back
 arduallach	Haughty
 ardú	Elevation
@@ -2765,7 +2762,6 @@ arraingeach	 Sharp
 arraingeach	 twitching
 arraing	 Stabbing pain
 arraing	 stitch in  side
-ársa	
 ársa	Aged person
 ársa	Ancient
 ársa	 antique
@@ -3020,7 +3016,6 @@ athchaite	Worn-out
 athchaora	 Two-year-old ewe
 athchapall	  remount
 athchapall	 Reserve horse
-athchasadh	
 athchasadh	  Inflexion
 athchasóg	 Cast-off  jacket
 athchas	Turn again
@@ -3190,7 +3185,6 @@ athghairm	Re-call
 athghair	Recall
 athghamhnach	   Second-year stripper
 athghas	 Tiller
-athghéar	
 athghéaraigh	Resharpen
 athghéar	Very sharp
 athghéilleadh	Resubmission
@@ -3272,7 +3266,6 @@ athléiriú	 reproduction (of play)
 athléiriú	Revival
 athlíneáil	  Reline
 athlíne	Second line
-athlíonadh	
 athlíonadh	 reinflation
 athlíonadh	Replenishment
 athlíon	Refill
@@ -3752,7 +3745,6 @@ baláiste	Bullace
 baláiste	 wild plum
 balaistíoch	 Ballistic
 balaistíocht	 Ballistics
-balastar	
 balastar	 Baluster
 balastráid	 Balustrade
 bál	Ball
@@ -4462,7 +4454,6 @@ béalóg	Small  opening
 béaloideasaí	 Folklorist
 béaloideas	 folklore
 béaloideas	 Oral tradition
-béaloscailte	
 béaloscailte	 agape
 béaloscailte	 Wide open
 béalraigh	Gossip about
@@ -4720,7 +4711,6 @@ beochiseal	 Active layer
 beochréacht	 Raw wound
 beocht	 animation
 beocht	 Life
-beodhearg	
 beodhearg	Glowing
 beodhíle	 Livestock
 beofhód	 Sod
@@ -5858,7 +5848,6 @@ bráithreachas	 Brotherhood. e
 bráithriúil	Brotherly
 bráithriúlacht	 Brotherliness
 branán	Raven
-branar	
 branar	 Broken lea
 branar	 fallow
 bran	Bream
@@ -6380,7 +6369,6 @@ broicleach	 plump
 broicleach	 Sturdy
 broicneáil	 Drubbing
 broic	 tolerate
-broid	
 broid	Captive
 broideadh	   nudge
 broideadh	Prod
@@ -6507,7 +6495,6 @@ bruachán	Stout low-sized person
 bruach	Bank
 bruachbhaile	 Suburb
 bruach	  brink
-bruachlán	
 bruachlán	Full to the brim
 bruachsholas	 Footlight
 bruachúinéir	 Riparian owner
@@ -6973,7 +6960,6 @@ bunán	Stool
 bunán	  stump
 bunaois	 Fairly advanced age
 bunaonad	 Base unit
-bunaosta	
 bunaosta	Fairly old
 bun-ard	Fairly high
 bunastán	Stocky person
@@ -7389,7 +7375,6 @@ caidrigh	 be on friendly  terms with
 caidrigh	Speak to
 caid	 stone
 caid	Stuffed ball
-caifeachán	
 caifeachán	 Prodigal.&amp
 caifeachas	 Prodigality
 caifeachas	 wastefulness
@@ -7536,7 +7521,6 @@ caingneach	Actionable
 caingneach	 troublesome
 cainid	 Canid
 cainíneach	Canine
-cainít	
 cainít	 Kainite.&amp
 cáin	Law
 cáinmheas	 Assessment
@@ -7569,7 +7553,6 @@ caint	 talk
 cáipéis	Document
 cáipéiseach	Documentary
 caipín	Cap
-caipíneach	
 caipíneach	Capped
 caipíneach	 wearing cap
 caipisín	 capuchin
@@ -7621,7 +7604,6 @@ cáiréiseach	Careful
 Cairibeach	Carib
 Cairibeach	  Caribbean
 Cairilínseach	Carlovingian
-cairín	
 cairín	 Croup
 cairíne	 Carina
 cáirín	 grimace
@@ -7934,7 +7916,6 @@ cam	  melting-pot
 cam-mhuineálach	Wry-necked
 cam-mhuin	 Wryneck
 cam	 object
-camógach	
 camógach	 crooked
 camógach	Crutched
 camógaíocht	 Camogie
@@ -8650,7 +8631,6 @@ ceachrach	  quagmire
 ceachrach	Slough
 céachtaire	 Ploughwright
 céachta	 Plough
-ceachtar	
 ceachtar	Either
 ceachtar	 one or other of two
 ceachtartha	Mutual
@@ -8929,7 +8909,6 @@ ceanníseal	  dejected
 ceannlá	Appointed  day
 ceannláidir	 Headstrong
 ceannlampa	 Headlamp
-ceannléas	
 ceannléas	 Stray stalk
 ceannliath	 grey-haired
 ceannliath	 Grey-headed
@@ -9468,7 +9447,6 @@ cé	 whom
 cha	Not
 cheana	 Already
 -cheannach	-headed
-choíche	
 choíche	 Ever
 choíche	 forever
 chomh	 As
@@ -9926,7 +9904,6 @@ círíneach	 crested
 cirlghealóg	 Cirl  bunting
 cirte	 correctness
 cirte	Rightness
-cis	
 cis	  basket
 cis	 crate
 ciseachán	"Breadbasket'
@@ -10847,7 +10824,6 @@ clúmhnachánach	Downy
 clúmhnachánach	 pubescent
 clúmhnachán	 Down
 clúmhnachán	 downy growth
-clúmhúil	
 clúmhúil	Downy
 clúmhúlacht	 Downiness
 clupaideach	Gathered
@@ -10914,7 +10890,6 @@ cnagóg	 blow
 cnagóg	 Knock
 cnag	 strike
 cnaguirlis	 Percussion instrument
-cnaí	
 cnaí	  angle-block (in currach)
 cnáibeach	Hempen
 cnáib	Hemp
@@ -11023,7 +10998,6 @@ cneámhaire	 Mean person
 cneámhaire	 rogue
 cneamhán	 mark of wound
 cneamhán	 Wound
-cneas	
 cneasach	Covered with skin
 cneasach	 cutaneous
 cneasaí	Close companion
@@ -11320,7 +11294,6 @@ coigeartaigh	Rectify
 coigeartaí	Rectifier
 coigeartóir	 adjustor
 coigeartóir	 Rectifier
-coigeartú	
 coigeartú	 adjustment
 coigeartú	Rectification
 coigéile	 companion
@@ -11363,7 +11336,6 @@ coiléiptíl	Coleoptile
 coiléirís	 Coleorhiza
 coiléir	Washer
 coilg-	For words not found under
-coilgneach	
 coilgneach	Prickly
 coilgneach	 spiny
 coilgne	 Prickles
@@ -12137,7 +12109,6 @@ comhbhráthair	  fellow-man
 comhbhráthair	 Kinsman
 comhbhréagnú	 Mutual contradiction
 comhbhreis	 Common difference
-comhbhrí	
 comhbhriathar	Compound verb
 comhbhrí	 equivalent (to)
 comhbhríoch	  Equivalent
@@ -12181,7 +12152,6 @@ comhchéimneacht	 Concomitancy
 comhchéimneach	Walking in step
 comhcheirtleán	  Conglomerate
 comhcheol	 Harmony
-comhchiall	
 comhchiallachas	 Synonymy
 comhchiallach	Synonym
 comhchiallach	Synonymous
@@ -12471,7 +12441,6 @@ comhphobal	 Community
 comhphointe	 Point of  concurrence
 comhrac	Encounter
 comhrá	 Conversation
-comhraiceach	
 comhraiceach	Combatant
 comhraiceach	 meeting
 comhraic	Encounter
@@ -12856,7 +12825,6 @@ conspóid	 contention
 conspóid	 contest
 conspóid	 controversy
 conspóid	 dispute
-conspóideach	
 conspóideach	 Argumentative
 conspóideacht	Argumentativeness
 conspóideacht	  controversialism
@@ -13036,7 +13004,6 @@ corpoiliúint	 Physical training
 corprach	 Corporeal
 corpraigh	Incorporate
 corprú	Incorporation
-corr	
 corrabhaill	 Crab-apple tree
 corrabhuais	 confusion
 corrabhuais	 consternation
@@ -13379,7 +13346,6 @@ cráigh	 grieve
 cráigh	 torment
 craimpiasc	 Crampfish
 craimpín	Rheumatic person
-cráin	
 cráinbheach	 Queen bee
 cráindóigh	Smoulder
 cráineadh	Sucking
@@ -13511,17 +13477,14 @@ craobh-bhearna	 Branch gap
 craobh	 bough
 craobh	Branch
 craobhcheathach	Of scattered showers
-craobhchith	
 craobhchith	 Slight shower
 craobhchluiche	 championship  game
 craobhchluiche	 Final
 craobhfholt	 Flowing hair
-craobhghlas	
 craobhghlas	Green-branched
 craobhlasair	 Branch-like
 craobhlasair	 flame
 craobhlasair	  spreading
-craobhlasrach	
 craobhlasrach	Flaming
 craobhlíne	 Branch-line
 craobhmhúr	 Scattered rain
@@ -13733,7 +13696,6 @@ crécholúr	 Clay pigeon
 cré	Clay
 cré	Creed
 cré	 dust
-cré-earra	
 cré-earra	 Earthenware article
 cré	 earth
 créghréithe	Crockery
@@ -14401,7 +14363,6 @@ crúdóireacht	 Farriery
 crúdóir	 Farrier
 cruib	 Crib
 cruibhéad	 Cruet
-crúibíneach	
 crúibíneach	Foot-rot
 crúibíneach	Sharp-clawed
 cruicéadaí	 Cricketer
@@ -15014,7 +14975,6 @@ culaith	Suit
 cúlamharc	  back view
 cúlamharc	 Backward glance
 cúlamharc	 retrospect
-cúlán	
 cúlán	 Little nook
 cúlán	   out-of-the-way
 cúlán	 secluded
@@ -15104,7 +15064,6 @@ cúlpháirtí	 Accessory  (to crime)
 cúlphlaic	 Occiput
 cúlphoc	  backhander
 cúlphoc	Back-stroke
-cúlra	
 cúlra	 Background
 cúlradharc	Back view
 cúlraic	 Kelp-rake
@@ -15302,14 +15261,12 @@ cupán	Cup
 cupard	 Cupboard
 cúplach	Twin
 cúpla	Couple
-cúpláil	
 cúpláil	Copulation
 cúpláil	Couple
 cúplaire	 Coupler
 cúplán	  Coupling
 cúpón	 Coupon
 cupúil	 Cupule
-cúrach	
 curachán	Small currach
 curach	 coracle
 curach	 Currach
@@ -15367,7 +15324,6 @@ cur	 planting
 cúr	 punish
 curra	 Holster
 cúr-rubar	Foam rubber
-cúrsach	
 cúrsach	Coursing
 cúrsa	Course
 cúrsaigh	 chastise
@@ -15645,7 +15601,6 @@ dallmhargaí	 Unwary buyer
 dallóg	 Blind
 dallradharcach	Shortsighted
 dallradharc	 Shortsightedness
-dallraigh	
 dallraigh	Blind
 dallraigh	 dazzle
 dallraitheach	Dazzling
@@ -15685,7 +15640,6 @@ damascaigh	Damascene
 damba	 barrier
 damba	 Dam
 dambáil	Dam
-dámhach	
 dámhach	 a retinue
 dámhach	 Having a following
 dámhachtain	 Award
@@ -15763,7 +15717,6 @@ daoi	 churl
 daoi	 dullard
 daoi	 dunce
 daoi	 Ignorant person
-daoineach	
 daoineach	Populous
 daoiniúil	Populous
 daoiniúlacht	Populousness
@@ -15958,7 +15911,6 @@ dea-bhean	 virtuous
 dea-bhean	 woman
 dea-bheart	Good act
 dea-bheart	  good deed
-dea-bhéas	
 dea-bhéasach	 polite
 dea-bhéasach	Well-behaved
 dea-bhéasach	 well-mannered
@@ -16456,7 +16408,6 @@ dearthóir	 Designer
 dea-rud	 goodness
 dea-rud	Good thing
 dea-rún	Good intention
-deasach	
 deasach	 Right-handed
 deasagán	  plaything
 deasagán	 toy
@@ -17324,7 +17275,6 @@ díchnámhaigh	 fillet
 díchódaigh	 Decode
 díchódóir	 Decoder
 díchóimeáil	 Dismantle
-díchoiscthe	
 díchoisctheacht	 insatiableness
 díchoisctheacht	 Lack of restraint
 díchoisctheacht	 lawlessness
@@ -17611,7 +17561,6 @@ dinnireach	Dysenteric
 dinnireacht	 Dysentery
 dinnseanchaí	 Topographer
 dinnseanchas	 Topography
-dintiúr	
 dintiúr	 Indenture
 díobhach	Extinctive
 díobhadh	Elimination
@@ -17737,7 +17686,6 @@ díolaim	Gleaning
 díolaíocht	 Payment
 díolaí	 Payer
 díolamóir	Gleaner
-diolba	
 diolba	 Bare
 diolba	 bleak
 diolbacht	 Bareness
@@ -17814,7 +17762,6 @@ díomas	Pride
 díomhaoineach	Idle  person
 díomhaoin	Idle
 díomhaointeas	Idleness
-diomlach	
 diomlach	  remnant
 diomlach	 Waste patch
 díomuachas	 Defeatism
@@ -18231,7 +18178,6 @@ dlaíóg	Single stalk
 dlaíóg	 strand (of hair
 dlaíóg	 strip (of bark)
 dlaoi	 lock
-dlaoitheach	
 dlaoitheach	 Hanging in locks
 dlaoitheach	 tressy
 dlaoithigh	Form into  locks
@@ -18330,7 +18276,6 @@ dlúth	 solid
 dlúthuillinn	 Solid angle
 dlúth	Warp
 dó-ábhar	Fuel
-do-aimsithe	
 do-aimsithe	 inaccessible
 do-aimsithe	Unattainable
 do-aimsithe	 untraceable
@@ -18410,7 +18355,6 @@ dobhréagnaithe	Irrefutable
 dobhréagnaithe	 undeniable
 dobhriathar	 Adverb
 dobhriathartha	Adverbial
-dobhriste	
 dobhriste	Unbreakable
 dobhuailte	Unbeatable
 dobhuile	 frenzy
@@ -18569,7 +18513,6 @@ dócúlach	Uncomfortable
 dócúl	 Discomfort
 dócúl	 distress
 dócúl	 pain
-dodach	
 dodach	 angry
 dodach	Sullen
 dodaireacht	 sulkiness
@@ -18622,7 +18565,6 @@ do-dhuine	 wicked
 dódó	 Dodo
 dó	Doh
 dod	Sullenness
-do-eadrána	
 do-eadrána	 Inseparable
 do-earráide	Infallible
 do-eolais	 uncharted
@@ -18647,7 +18589,6 @@ dofholmhaithe	Inexhaustible
 dofholmhaithe	 not emptiable
 dofhreagartha	Unanswerable
 dofhuaimnithe	Unpronounceable
-dofhuascailte	
 dofhuascailte	 inextricable
 dofhuascailte	Irredeemable
 dofhulaingthe	Unbearable
@@ -18709,7 +18650,6 @@ dogma	 Dogma
 dóib	 Daub
 dóibeáil	Daub
 dóibeáil	 plaster (with mud)
-dóibiúil	
 dóibiúil	Dauby
 dóib	 plaster-clay
 dóib	 (sticky) mud
@@ -18859,7 +18799,6 @@ do-iongabhála	Unmanageable
 do-ionsaithe	 inaccessible
 do-ionsaithe	Unassailable
 doirbeach	 Infested with water beetles
-doirbh	
 doirbheas	  dissatisfaction
 doirbheas	Sullenness
 doirbheas	 unpleasantness
@@ -18879,7 +18818,6 @@ doirneálach	Rugged person
 doirneálach	 rustic
 doirnín	Grip
 doirnín	 handle (especially of scythe)
-doirseach	
 doirseach	 accessible
 doirseach	Having doors
 doirseach	 open
@@ -18971,7 +18909,6 @@ doleasaithe	 irreparable
 doleigheasta	Incurable
 doléite	Illegible
 doleithscéil	Inexcusable
-dolíonta	
 dolíonta	 hard to fill
 dolíonta	Unfillable
 dollar	 Dollar
@@ -19003,9 +18940,7 @@ do-mhaise	 Unsightliness
 do-mhaite	Unforgiveable
 domhanda	Terrestrial
 domhan	Earth
-domhanfhad	
 domhanfhad	 Longitude
-domhanleithead	
 domhanleithead	 Latitude
 domhantarraingt	 Gravitation of the earth
 domhantarraingt	 gravity
@@ -19118,7 +19053,6 @@ donnóg	Dunnock
 donnóg	 hedge-sparrow
 donn	  prince
 donnroscach	Brown-eyed
-donnrua	
 donnrua	Chestnut (colour)
 donnúchán	 Browning
 donóg	  wretch
@@ -19129,9 +19063,7 @@ dó-ola	Fuel-oil
 do-ólta	Undrinkable
 dópáil	Dope
 dóp	 Dope
-dophléasctha	
 dophléasctha	Non-explosive
-dophollta	
 dophollta	Impenetrable
 dophósta	Unmarriageable
 Dórach	Dorian
@@ -19194,7 +19126,6 @@ doréidh	 difficult
 doréidh	Entangled
 doréidh	 intricate
 doréitigh	Unconciliatory
-doréitithe	
 doréititheacht	 Insolubility
 doréitithe	Hard or impossible to disentangle
 doreoite	Nonfreezing
@@ -19297,7 +19228,6 @@ doshamhlaithe	 inconceivable
 doshamhlaithe	Unimaginable
 doshannta	 inalienable
 doshannta	Unassignable
-doshaothraithe	
 doshaothraithe	Unworkable
 dosháraithe	 incomparable
 dosháraithe	 indefatigable
@@ -19367,7 +19297,6 @@ dothíos	 Inhospitableness
 dothógtha	Impossible to lift
 dothógtha	 to construct
 dothógtha	 to rear
-dothollta	
 dothollta	 impenetrable
 dothollta	Impossible to pierce
 dothomhaiste	Immeasurable
@@ -19419,7 +19348,6 @@ drachma	 Drachma
 dradaire	 grimacer
 dradaire	 grinner
 dradaire	Person with prominent  teeth
-dradairnín	
 dradairnín	 meagre
 dradairnín	 Puny
 dradairnín	 thing
@@ -19836,7 +19764,6 @@ droch-chaidreamh	 bad  company
 droch-chaidreamh	 evil association
 droch-chaidreamh	 illicit intimacy
 droch-cháil	Bad reputation
-droch-chaint	
 droch-chaint	Bad language
 droch-cheann	Bad head
 droch-chiall	 folly
@@ -19907,7 +19834,6 @@ drochiarraidh	Bad attempt
 drochíde	 abuse
 drochíde	Ill-usage
 droch-	 ill-
-drochimeacht	
 drochimeacht	 bad  behaviour
 drochimeacht	Bad conduct
 drochintinn	 Bad intention
@@ -20079,7 +20005,6 @@ drolach	 loop-handled
 drolamh	 Loop
 drolamh	  loop-handle
 drolamh	 ring
-drólann	
 drólann	   Colon
 drol	 link
 drol	Loop
@@ -20113,7 +20038,6 @@ drón	 drawl
 drón	 Drone
 drón	 droning voice
 dron	 firm
-drongach	
 drongach	 Multitudinous
 drongach	 thronging
 drongbhuíon	 Large company
@@ -20544,7 +20468,6 @@ dúilmhear	Desirous
 dúilmhear	 expectant
 dúilmhear	 longing
 dúilmhireacht	 Desirousness
-duine	
 duineatacht	 Humaneness
 duineatacht	 kindliness
 duineata	Human
@@ -20988,9 +20911,7 @@ ea	  distance
 éadlás	 harshness
 éadlás	 Roughness
 éadlás	 severity
-éadlús	
 éadlús	 Incompactness
-éadlúth	
 éadlúthaigh	Rarefy
 éadlúth	Incompact
 éadlúthú	Rarefaction
@@ -21246,7 +21167,6 @@ eagraigh	Arrange
 eagraigh	 organize
 eagraíocht	 Organisation
 eagraí	 organizer
-eagrán	
 eagrán	 Edition
 éagráta	 Death rate
 éagrua	 infirm
@@ -22205,7 +22125,6 @@ eisinnille	Insecurity
 eisinnill	Insecure
 eisint	 Essence
 eisintiúil	 Essential
-eisíocaíocht	
 eisíocaíocht	 Out-payment
 eisíocháin	 Dissension
 eisíocháin	 strife
@@ -22355,7 +22274,6 @@ eitneolaí	 Ethnologist
 eitneolaíocht	 Ethnology
 eitni-	Ethno-
 eitpheil	  Volleyball
-eitreach	
 éitreach	Ethereal
 eitreach	Furrowed
 eitreach	 grooved
@@ -22529,7 +22447,6 @@ fadcheann	 foresight
 fadcheann	 Long-headedness
 fadcheirnín	 Long-playing record
 fadchluasach	Long-eared
-fadchónaí	
 fadchónaí	Long residence
 fadchónaí	 long stay
 fadchosach	Long-legged
@@ -22639,7 +22556,6 @@ faghair	 Fire
 faghair	 heat
 faghair	 temper
 faghairt	 Temper
-faghartha	
 fagharthacht	 Fieriness
 fagharthacht	 mettlesomeness
 faghartha	 Tempered
@@ -22657,7 +22573,6 @@ faiche	 Green
 faiche	 lawn
 faiche	  (play)ground
 faiche	 (playing-) field
-faichill	
 faichill	Be careful of
 faichill	Care
 faichill	 caution
@@ -23028,7 +22943,6 @@ faltanas	 grudge
 faltanas	 spite
 faltanas	 Spitefulness
 faltanas	  vindictiveness
-fáltas	
 fáltasach	Gainful
 fáltasach	 profitable
 fáltas	Income
@@ -23203,7 +23117,6 @@ farcha	 mallet
 fardal	 Inventory
 fardoras	 Lintel (of door)
 fardroim	 Upper ridge
-fargán	
 fargán	 Ledge
 Faróch	Faeroese
 faró	Pharaoh
@@ -23580,7 +23493,6 @@ féas	 Coarse hair
 féasógach	Bearded
 féasóg	 Beard
 féasrach	 Muzzle
-feasta	
 féasta	 banquet
 féastach	Festive
 féastach	 fond of feasting
@@ -36469,7 +36381,7 @@ leis	Uncovered
 leiteachán	 Porridge-stick
 leite	Porridge
 leite	 stirabout
-leithcheal	 exclusion 
+leithcheal	 exclusion
 leithcheal	 invidious  distinction
 leithcheal	 Passing over
 leitheadach	Broad
@@ -36509,7 +36421,6 @@ leithghabháil	Appropriation
 leithghabh	Appropriate
 leithinis	 Peninsula
 leithinseach	Peninsular
-leithleach	
 leithleach	Apart
 leithleachas	State of being apart
 leithleach	 distinct
@@ -36663,7 +36574,6 @@ liathdhearg	Pale red
 liathdhearg	 pinkish
 liathdhonn	 drab
 liathdhonn	Pale brown
-liathdhorcha	
 liathdhorcha	Dark-grey
 liathdhorchadas	 Grey light
 liathdhorchadas	 twilight
@@ -36821,7 +36731,6 @@ liobarnálaí	  person
 liobarnálaí	 slovenly
 liobarnálaí	Untidy
 liobar	 thing
-líobóideach	
 líobóideach	Ragged
 líobóideach	 slatternly
 líobóideach	 tattered
@@ -37375,7 +37284,6 @@ loirgneach	 long-legged
 loirgneach	Long-shinned
 loirgneach	 woman
 loirgnéad	 Lorgnette
-loirgneán	
 loirgneán	 gaiter
 loirgneán	 little shank
 loirgneán	Little  shin
@@ -37880,7 +37788,6 @@ luathbhorradh	 Forwardness
 luathbhorrtha	 forced
 luathbhorrtha	Forward
 luathbhruith	   Spatchcock
-luathbhuilleach	
 luathbhuilleach	Quick to strike
 luathchainteach	 glib
 luathchainteach	Quick-spoken
@@ -37933,7 +37840,6 @@ lúbáil	Link
 lúbainn	 Recess
 lúbaire	 Crafty person
 lúbaire	 twister
-lúbánach	
 lúbánach	 coiled
 lúbánach	Looped
 lúbán	Loop
@@ -38091,7 +37997,6 @@ lúitéiseach	 obsequious
 lúitéis	 Fawning
 lúitéis	 obsequiousness
 lúitéitiam	 Lutetium
-lúitheach	
 lúitheach	Ligament
 lúitheach	 muscular
 lúitheach	Sinewy
@@ -38134,7 +38039,6 @@ lústaire	 flatterer
 lustan	 herbage
 lustan	 Weeds
 lústar	Agitated movement
-lústrach	
 lústrach	Capering
 lústrach	 fawning
 lústrach	Withered grass
@@ -38420,7 +38324,6 @@ mainicín	 model
 mainileach	Manilla
 mainile	 Manilla
 mainipil	 Maniple
-mainís	
 mainís	he is (slightly) improved
 mainistir	 abbey
 mainistir	 Monastery
@@ -38762,7 +38665,6 @@ mangarae	  welter
 mangarsach	 Buxom woman
 mang	Bag
 mang	 bundle
-manglam	
 manglam	 hotchpotch
 manglam	Jumble
 mangó	 Mango
@@ -39758,7 +39660,6 @@ meathán	 sapling
 meathán	 shoot
 meathán	   sickly person
 meathán	Sucker
-meathánta	
 meathánta	 enervate
 meathánta	 sickly
 meathánta	Weak
@@ -40248,7 +40149,6 @@ míbhá	 Unfriendliness
 míbheart	  evil deed
 míbheart	 Evil plan
 míbheart	 villainy
-míbhéas	
 míbhéasach	Ill-behaved
 míbhéasach	 ill-mannered
 míbhéasaíocht	 Ill-mannerliness
@@ -40997,7 +40897,6 @@ mionaitheach	 shattering
 mionán	Saxifrage
 mionaoiseach	 Minor
 mionaois	 Minority
-mionarm	
 mionarm	 Small weapon
 mionathraigh	Change slightly
 mionathraigh	 modify
@@ -41048,7 +40947,6 @@ mionchloch	 Small stone
 mionchomhrá	 gossip
 mionchomhrá	 Minor conversation
 mionchomhrá	  tittle-tattle
-mionchostas	
 mionchostas	 Small cost
 mionchothaitheach	Micro-nutrient
 mionchró	 Small bore
@@ -41070,7 +40968,6 @@ mionchúiseach	 scrupulous
 mionchúiseach	 trivial
 mionchúis	 Minor  cause
 mionchúis	 minor reason
-mionchumtha	
 mionchumtha	 Delicate
 mionchumtha	 refined
 mionchuntas	 Detailed account
@@ -41107,7 +41004,6 @@ mioneallach	 sheep
 mioneangach	 Reticle
 mioneangú	 Denticulation
 mionéan	Small bird
-mionearra	
 mionearra	 Small (article of) goods
 mioneolas	 detailed information
 mioneolas	 Detailed knowledge
@@ -41265,10 +41161,8 @@ miontéarma	 Minor term
 mion	 tiny
 miontóir	 Mincer
 miontosach	 Primer
-miontuairisc	
 miontuairisc	 Detailed account
 miontúr	 Minaret
-mionuasal	
 mionuasal	Lesser nobleman
 mionuasal	  lordling
 mionú	Comminution
@@ -41278,7 +41172,6 @@ miorcaí	 Chit
 míorc	Upon my word!
 mí-ordú	 disarray
 mí-ordú	 Disorder
-mí-ordúil	
 mí-ordúil	 confused
 mí-ordúil	Disorderly
 miorrach	Myrrhic
@@ -41328,7 +41221,6 @@ miotamáine	 Mythomania
 miotamas	 Mittimus
 miota	Mite
 miota	 morsel
-miotánach	
 miotánach	 Fingerless
 miotán	Fingerless  glove
 miota	 nibble
@@ -41404,7 +41296,6 @@ míri-	Meri-
 míri-	 mero-
 míristéamach	Meristematic
 míristéama	 Meristem
-mirleán	
 mirleánach	 Beaded
 mirleán	 Little knob
 mirle	 Ball
@@ -41414,7 +41305,6 @@ mírlíníocht	 Sectional drawing
 Mirmeadón	 Myrmidon
 -mír	-mere
 mírmharc	 Section mark
-míroinnt	
 míroinnt	 division
 míroinnt	 Unequal
 míroinnt	 unfair
@@ -41531,7 +41421,6 @@ mistéir	 Mystery
 miste	Used  with copula)
 mistíc	 Mystique
 mistiúil	Mystic(al)
-místiúradh	
 místiúradh	 Misguidance
 místiúrtha	Misguided
 místiúrtha	 unmanageable
@@ -42226,7 +42115,6 @@ mothálach	 responsive
 mothálach	Sensitive
 mothálacht	 responsiveness
 mothálacht	 Sensitiveness
-mothallach	
 mothallachán	Bushy-haired person
 mothallachán	 mop-headed boy
 mothallach	 bushy
@@ -42527,7 +42415,6 @@ múisiamach	 perturbed
 múisiamach	Upset
 múisiam	Upset
 muisiriún	 Mushroom
-múisiúnta	
 múisiúntacht	 closeness
 múisiúntacht	  drowsiness
 múisiúntacht	 dullness
@@ -42784,7 +42671,6 @@ naoichodach	 having nine parts
 naoichodach	Ninefold
 naoi	Nine
 naoisil	 Nacelle
-naomhaí	
 naomhaigh	Hallow
 naomhaigh	 sanctify
 naomhainmnigh	 Canonize
@@ -43090,7 +42976,6 @@ neamhcheadaithe	Unpermitted
 neamhchéadfach	 insensible
 neamhchéadfach	Non-sensory
 neamhchéadfacht	 Insensibility
-neamhcheangailteach	
 neamhcheangailteach	Not binding
 neamhcheansaithe	 uncontrolled
 neamhcheansaithe	 unpacified
@@ -43369,7 +43254,6 @@ neamhéilithe	Unclaimed
 neamhéirimiúil	 unintelligent
 neamhéirimiúil	Untalented
 neamhéirimiúlacht	 Lack of intelligence
-neamhéisealach	
 neamhéisealach	Unfastidious
 neamheisintiúil	 Non-essential
 neamheolach	Ignorant
@@ -44101,7 +43985,6 @@ neomata	Pneumat(o)-
 neomatóracs	 Pneumothorax
 neon	 Neon
 neostón	 Neuston
-ní	
 niacha	 Little bit
 nia	  champion
 niacha	 pinch
@@ -44450,7 +44333,6 @@ núíosacht	 inexperience
 núíosacht	 Newness
 núíosach	 unaccustomed
 núis	Nuisance
-nuitín	
 nuitín	 nutshell
 nuitín	 Tiny receptacle
 nunatac	 Nunatak
@@ -44738,7 +44620,6 @@ oil	 act of   reproaching
 oilbheart	 deed
 oilbheart	 Evil
 oilbheart	  shameful
-oilbhéasach	
 oilbhéasach	Mischievous
 oilbhéasach	 unruly
 oilbhéas	 crossness
@@ -45277,7 +45158,6 @@ ordúlacht	 Orderliness
 ordúlacht	 tidiness
 ordú	Order
 óréadach	 Cloth of gold
-órfholt	
 órfholt	 Golden hair
 órga	Golden
 orgáinde	 Organdie
@@ -46404,7 +46284,6 @@ piriteicnic	 Pyrotechnics
 piriteicniúil	Pyrotechnic(al)
 pirít	 Pyrites
 pirixéin	 Pyroxene
-pis	
 pischineálach	Legume
 pischineálach	Leguminous
 piseánach	Female  fish
@@ -46716,7 +46595,6 @@ pliúrainiúmóine	 Pleuro-pneumonia
 pliúraiseach	Pleuritic
 pliúraisí	Pleurisy
 pliúra	Pleur(o)-
-plobach	
 plobach	Bubbling
 plobach	 gurgling
 plobaire	 babbler
@@ -47561,7 +47439,6 @@ proinseach	 Haggis
 Proinsiasach	Franciscan
 proipianach	Propionic
 próipil	 Propyl
-próis	
 próisbhloc	Process-block
 próiseáil	 Process
 próiseas	 Process
@@ -48154,7 +48031,6 @@ raingléireacht	 (act of) dawdling
 raingléireacht	 Slowness
 raingléir	 Slow-moving person
 raingléis	Ramshackle thing
-ráinigh	
 ráinigh	 arrive
 ráinigh	 happen
 ráinigh	Reach
@@ -48340,7 +48216,6 @@ rapiolar	Harpy-eagle
 rap	Rap
 rapsóideoir	 Rhapsode
 rapsóid	 Rhapsody
-rásáil	
 rásáil	Race
 rásáil	Racing
 rásaí	Racer
@@ -48664,7 +48539,6 @@ réamhshampla	  precedent
 réamhshampla	 Previous example
 réamhshocraigh	Pre-arrange
 réamhshocraigh	 predetermine
-réamhshocrú	
 réamhshocrú	 pre- determination
 réamhshocrú	Prior arrangement
 réamhshuite	Antecedent
@@ -48744,7 +48618,6 @@ réchaite	Half-worn
 réchaite	 partly worn away
 réchaladh	 Easy landing-place
 réchaladh	  landing-stage
-réchas	
 réchas	  slowly
 réchas	 turn
 réchas	Twist
@@ -48995,7 +48868,6 @@ rialú	Rule
 riamh	 Before
 rianach	Having tracks
 rianach	 paths
-rianaigh	
 rianaigh	Mark out
 rianaigh	 trace
 rianaíocht	 (act of) wandering
@@ -49064,7 +48936,6 @@ riastradh	Contortion
 riast	 streak
 riast	 stripe
 riast	 Welt
-riata	
 riata	 Broken
 riata	 tamed
 riathar	 Torrent
@@ -49182,7 +49053,6 @@ rímharfóir	  Regicide
 rimín	 Fringe
 rím	 Rhyme
 rinc	Dance
-rinceach	
 rinceach	Dancing
 rinceálaí	 Caperer
 rinceálaí	 gamboller
@@ -49448,7 +49318,6 @@ róinseach	 Barren sheep
 roiseadh	 rent
 roiseadh	Rip
 roiseadh	 tear
-roiseálaí	
 roiseálaí	 Render
 roiseálaí	 tearer
 roisíneach	Resinous
@@ -49673,7 +49542,6 @@ ruabhreac	 Char
 ruacan	 Cockle
 ruacántacht	Boorishness
 ruacán	Withered  old person
-ruachan	
 ruachan	Reddening
 ruachán	 Rocket
 ruachorcra	Puce
@@ -49950,7 +49818,6 @@ rúrachas	 Prescriptive right
 rúrach	 Prescriptive
 rúradh	 Prescription
 rú	 Rue
-rúscach	
 rúscach	Bark-like
 rúscadh	Decortication
 rúscaire	 bruiser
@@ -50466,7 +50333,6 @@ samhlachúil	Typical
 samhlaigh	Imagine
 samhlaíoch	 Imaginative
 samhlaíocht	 Imagination
-samhlaoid	
 samhlaoideach	Full of imagery
 samhlaoid	Figurative  illustration
 samhlú	 fancy
@@ -50881,7 +50747,6 @@ scafánta	 tall and vigorous
 scáfar	Fearful
 scafa	Ship
 scafóideach	Scaphoid
-scagach	
 scagachán	Filtration
 scagach	Permeable
 scagach	 porous
@@ -50915,7 +50780,6 @@ scaibéis	 Scabies
 scaid	 Husks
 scaid	 refuse
 scaif	Scarf
-scáileach	
 scáileach	Shadowy
 scailéanach	Scalene
 scáileán	 Screen
@@ -51164,7 +51028,6 @@ scanrúlacht	Frightfulness
 scansálaí	 Squabbler
 scan	Scan
 scantóir	 Scanner (of verses)
-scaobach	
 scaobach	Scooping
 scaob	 forkful
 scaobóg	 Scooped-up  lump
@@ -51282,7 +51145,6 @@ sceabha	 Skew
 sceabha	 slant
 sceabhlámhach	 Oblique fire
 sceabhthargaid	 Oblique target
-sceach	
 sceachach	 brambly
 sceachach	 briery
 sceachach	Full of hawthorns
@@ -51375,7 +51237,6 @@ scéansúileach	Wild-eyed
 scéansúil	 glaring eye
 scéansúilí	Wild-eyed appearance
 scéansúil	 Wild
-sceanúil	
 sceanúil	 biting
 sceanúil	Sharp
 sceartachán	 animal with swollen flanks
@@ -51456,7 +51317,6 @@ scéimre	 Schema
 scéim	 Scheme
 scéineachán	  Frightened-looking person
 scéin	Fright
-scéiniúil	
 scéiniúil	 Frightened-looking
 scéiniúlacht	Frightened state
 scéin	 terror
@@ -51476,7 +51336,6 @@ sceireog	  fib
 sceireog	 Trivial lie
 sceir	 Low rocky island or reef
 sceir	  skerry
-sceiteach	
 sceiteach	 brittle
 sceiteach	Crumbling
 sceiteacht	 brittleness
@@ -52000,7 +51859,6 @@ scolardach	 Scholar
 scolard	Loud-shouting
 scolard	 loud-voiced
 scolártha	Scholarly
-scolb	
 scolbach	 jagged
 scolbach	Splintered
 scolbáil	 Scallop
@@ -52034,7 +51892,6 @@ scon	 beggar
 scon	 fleece
 sconnabheartach	Hasty
 sconnabheartach	 impulsive
-sconnach	
 sconnach	 gushing
 sconnach	Spouting
 sconnaire	  devil-may-care
@@ -52094,7 +51951,6 @@ scothach	 reef
 scothach	Rocky ridge   extending into sea
 scothach	Tufted hair
 scoth-airde	Medium height
-scothánach	
 scothánach	 bushy
 scothánach	Mop-haired  person
 scothánach	Tufted
@@ -52109,7 +51965,6 @@ scothaosta	Fairly old
 scotharnach	 Shrubbery
 scothbhán	White-tufted
 scothbhán	Whitish
-scothbhruite	
 scothbhruite	 Soft-boiled
 scothbhualadh	 (light) flogging
 scothbhualadh	 Light threshing
@@ -52242,7 +52097,6 @@ scrathacht	 Scabbiness
 scrathán	  light covering
 scrathán	 Light (green) sod
 scrathóg	Bladder
-screabach	
 screabach	Coated
 screabach	 crusted
 screaball	  Scruple
@@ -52745,7 +52599,6 @@ seamsóg	Trite
 seamsóg	Wood-sorrel
 seamsóg	  worthless
 seamsúr	 Chanter
-sean-	
 seanadh	Constancy
 séanadh	Denial
 seanadh	 etc.)
@@ -52804,7 +52657,6 @@ seanchailín	Old maid
 seanchailleach	  crone
 seanchailleach	 hag
 seanchailleach	 Old woman
-seanchaint	
 seanchaint	Old-fashioned talk
 seanchaíocht	 Act of telling old stories
 seanchaíocht	 discussing   old events
@@ -52833,7 +52685,6 @@ seanda	Old
 seanda	 stale
 seandéanamh	 Old make
 seandéanamh	 old style
-seandéanta	
 seandéanta	Old-fashioned
 séan	Deny
 seandícheall	 One's best effort
@@ -53260,7 +53111,6 @@ seinm	Playing of musical instrument
 séinne	Senna
 seinn	 musical  instrument)
 seinn	Play (music
-seinnteoir	
 seinnteoir	  performer
 seinnteoir	 Player
 seintimint	 Sentiment
@@ -53351,7 +53201,6 @@ seise	 comrade
 séisín	 gratuity
 séisín	 Rebate
 séisín	 tip
-seisíoch	
 seisíoch	 Sixth part
 seisire	 Challenge
 seisiúnach	Sessional
@@ -53457,7 +53306,6 @@ seoráil	Light work
 seoráil	Trolling
 seorálaí	 shore  fisherman
 seorálaí	 Troller
-seordánach	
 seordánach	 Rustling
 seordán	Rustling sound
 seornaiseom	 Chernozem
@@ -53484,7 +53332,6 @@ siabhair	 derange
 siabhair	 distort
 siabhair	 enchant
 siabhair	 transform
-siabhránach	
 siabhránach	 confused
 siabhránach	 eccentric
 siabhránach	 person
@@ -53714,7 +53561,6 @@ sinceagrafaíocht	 Zincography
 sinceagraf	 Zincograph
 sincea-	Zinco-
 sinciarann	 Galvanized iron
-sincigh	
 sincigh	Zincify
 sinciú	Zincification
 sincréatachas	 Syncretism
@@ -54138,7 +53984,6 @@ siosta	Schist
 siostólach	Systolic
 siostól	 Systole
 siosúr	 Scissors
-siosúrtha	
 siosúrtha	Scissors-like
 siota	 brat
 síota	 Cheetah
@@ -54188,7 +54033,6 @@ sípris	 crape
 sípris	 Cypress
 síprisín	 Crepe de Chine
 sip	 Zip
-síreachtach	
 síreachtach	 longing
 síreachtach	 Wistful
 síreacht	 longing
@@ -54527,7 +54371,6 @@ slat	 switch
 Slavach	Slav
 Slavach	 Slavonian
 Slavach	Slavonic
-sleabhac	
 sleabhac	 become limp
 sleabhac	Droop
 sleabhac	 fade
@@ -54706,7 +54549,6 @@ slíodóir	 person
 slíodóir	  skulker
 slíodóir	 Sly
 slíodóir	 sneak
-sliogánach	
 sliogánach	Shelled
 sliogánach	Testacean
 sliogánach	 testaceous
@@ -55170,9 +55012,7 @@ smúrlach	 dirty
 smúrlach	 face
 smúrlach	  grimy
 smúrlach	 Snout
-smúrlóg	
 smúrlóg	Grimy-faced girl
-smúr-riabhach	
 smúr-riabhach	 Black-faced
 smúr	 rust
 smúr	Sniff
@@ -55399,7 +55239,6 @@ sobhéasach	Mannerly
 sobhéasach	 well-bred
 so-bhlastacht	 Tastiness
 so-bhlasta	Tasty
-sobhogtha	
 sobhogtha	Easily moved
 sobhogtha	 pliable
 sobhogtha	 susceptible (to emotion)
@@ -55430,7 +55269,6 @@ socair	 settled
 socair	 steady
 socair	 still
 socair	   unruffled
-sócamas	
 sócamas	 Confection
 socán	Little  muzzle
 socán	 little snout
@@ -55845,7 +55683,6 @@ soléiritheacht	 Demonstrability
 soléirithe	Demonstrable
 soléite	 legible
 soléite	Readable
-soleonta	
 soleonta	Easily wounded
 soleonta	 vulnerable
 sólfá	 Sol-fa
@@ -55993,7 +55830,6 @@ sonrú	Specification
 son	Sound
 sonuachar	 Spouse
 son	 well-being
-so-oibrithe	
 so-oibrithe	Workable
 so-oilte	Easily reared
 so-oilte	 easily trained
@@ -56108,7 +55944,6 @@ sothriallta	 Negotiable
 sothuigthe	 comprehensible
 sothuigthe	Easily understood
 sothuigthe	 simple
-sóúil	
 sóúil	Comfortable
 sóúil	 luxurious
 sóúlacht	 Comfortableness
@@ -56285,13 +56120,10 @@ spaspas	 convulsion
 spaspas	Spasm
 spás	Space
 spásúil	Spatial
-speabhraíd	
 speabhraíd	 Hallucination
-speach	
 speachaire	Kicker
 speach	Kick
 speach	Kick   (of animal)
-spéacla	
 spéaclach	Specular
 spéacla	 Eye-glass
 spéacláireach	Speculative
@@ -57365,7 +57197,6 @@ stálaithe	 obstinate
 stálaithe	Stiff
 stálaithe	 tough
 stálaithe	   unbending
-stalcach	
 stalcach	Stubborn
 stalcach	 sulky
 stalcacht	 stubbornness
@@ -57428,7 +57259,6 @@ stáncheárta	Tinworks
 standal	 post
 standal	  stanchion
 standal	 Standard
-stang	
 stangadh	Bend
 stangadh	 sag
 stangadh	 strain
@@ -57928,7 +57758,6 @@ straiméad	Heavy blow
 straimp	 hardship
 straimp	 Trouble
 strainc	 contortion of face
-strainceach	
 strainceachán	 Grimacer
 strainceach	Grimacing
 strainc	 Grimace
@@ -58013,7 +57842,6 @@ streachlán	 tattered
 streachlán	 thing
 streachlán	   trailing
 streachlán	 untidy
-streancánach	
 streancánach	Strumming
 streancánach	 twanging
 streancánaí	  (fiddle-)scraper
@@ -58129,7 +57957,6 @@ strusúil	 fatiguing
 strútach	 Big
 strútach	 rawboned person
 stua	Arch
-stuacach	
 stuacach	Peaked
 stuacach	 pointed at top
 stuacacht	 etc.)
@@ -58583,7 +58410,6 @@ sult	 enjoyment
 sult	 fun
 sultmhaireacht	 enjoyableness
 sultmhaireacht	 Pleasantness
-sultmhar	
 sultmhar	 enjoyable
 sultmhar	 satisfying
 sult	 pleasure
@@ -58791,7 +58617,6 @@ tafainn	 expel
 tafainn	Hunt
 tafainn	 out)
 tafainn	 pursue
-tafann	
 tafann	 a dog barking (at  s.o.)
 tafata	 Taffeta
 tagair	 allude
@@ -58994,7 +58819,6 @@ táirmheáchan	 Tare
 táirmheas	 Disrepute
 táirmhian	 Base desire
 tairmtheacht	Transgression
-tairneáil	
 tairneáil	Draught-chain  (of cart)
 tairneáil	Nail
 tairne	 Nail
@@ -59358,7 +59182,6 @@ taoiseacht	Chieftainship
 taoiseacht	 leadership
 taoiseoigín	 Small stout woman
 taoisleadh	 Mass of dough
-taoisleannach	
 taoisleannach	 Lasting
 taoisleann	 lastingness
 taoisleann	 Lasting quality
@@ -59620,7 +59443,6 @@ táthghlas	 Green-tufted
 táthghlas	 unripe
 táth	 lock
 táth	Tuft
-táthú	
 táthú	 coalescence
 táthú	 consolidation
 táthú	Solidification
@@ -59916,7 +59738,6 @@ teasargan	 rescue
 teascach	Cutting
 teascach	 lopping
 teascach	 severing
-teascadh	
 teascadh	 amputation
 teascadh	Lopping
 teascadh	 severance
@@ -60099,7 +59920,6 @@ teinne	 severity
 teinne	 solidity
 teinne	 strength
 teinne	Tightness
-teip	
 teipeanach	Liable to fail
 teip	Fail
 teip	Failure
@@ -60269,7 +60089,6 @@ tíáil	 Tee
 tiaimín	 Thiamine
 tiarach	   Crupper
 tiaradh	 Act of seeking. (Used after negative)
-tiarálach	
 tiarálach	 laborious
 tiarálach	Toilsome
 tiarálaí	 slogger
@@ -60376,7 +60195,6 @@ tinnchroíoch	 at heart
 tinnchroíoch	 sick
 tinnchroíoch	  Sore
 tinn	 distressing
-tinneall	
 tinneallach	 ready
 tinneallach	Set
 tinneallaí	 nervousness
@@ -60489,7 +60307,6 @@ tiomsaitheach	 accumulative
 tiomsaitheach	Collective
 tiomsaitheoir	  collector
 tiomsaitheoir	Gatherer
-tiomsú	
 tiomsú	 accumulation
 tiomsúch	 Colligative
 tiomsú	 Collection
@@ -60714,7 +60531,6 @@ tnáith	 Wear down
 tnáith	 weary
 tnúthach	Envious
 tnúthach	Envious person
-tnúthánach	
 tnúthánach	Expectant
 tnúthánach	 hankering
 tnúthánach	 yearning
@@ -61561,7 +61377,6 @@ trasnánach	Crosswise
 trasnánach	 diagonal
 trasnán	  Cross-piece
 trasnasc	 Cross-linkage
-trasnú	
 trasnú	 intersection
 trasnú	Traverse
 trasphlandáil	 Transplantation
@@ -61644,7 +61459,6 @@ treáire	 borer
 treáire	 Piercer
 treáiteach	 penetrating
 treáiteach	Piercing
-trealamh	
 trealamh	 Equipment
 trealamh	 gear
 treallach	Fitful
@@ -61788,7 +61602,6 @@ trébhliantaigh	Perennate
 trébhliantóg	  Perennial
 trébhliantúil	 Perennial
 tréchur	 Throughput
-trédhearcach	
 trédhearcach	Transparent
 trédhearcacht	 Transparency
 tréghalaigh	 Transpire
@@ -61814,7 +61627,6 @@ treighdeán	 Sharp pain
 treighid	   pang
 treighid	Shooting pain
 tréigiúch	 Waif
-tréigtheach	
 tréigtheach	Deserting
 tréigtheach	 forsaking
 tréigtheacht	 Tendency to fade
@@ -62219,7 +62031,6 @@ troistneach	 commotion
 troistneach	 Noise
 troitheach	Foot-soldier
 troitheán	Pedal
-troithín	
 troithín	Vampless stocking
 troithíocht	 Sound of footsteps
 troí	 Troy
@@ -62700,7 +62511,6 @@ tuiní	Fixed position
 tuiní	 immovable
 tuiní	  station
 tuinnín	 Tunny
-tuinseamhach	
 tuinseamhach	 crushing
 tuinseamhach	 hard
 tuinseamhach	 Heavy
@@ -62754,7 +62564,6 @@ tuirsiúil	Tiring
 tuirsiúil	 wearying
 tuirsiúlacht	 Tiresomeness
 tuirsiúlacht	 wearisomeness
-tuirtheacht	
 tuirtheacht	 Account
 tuirtheacht	 story
 túisbhád	 Incense-boat
@@ -63856,7 +63665,6 @@ vaipití	 Wapiti
 valbaí	 Wallaby
 válcaeir	 stroller
 válcaeir	Walker
-Valdach	
 Valdach	Waldensian
 vallait	 Wallet (of notes)
 Vallúnach	Walloon
@@ -63885,7 +63693,6 @@ veain	 Van
 vearanda	 Verandah
 vearnais	 Varnish
 vearónach	 Veronal
-véarsa	
 véarsaíocht	Versification
 véarsa	 stanza
 véarsa	 Verse
