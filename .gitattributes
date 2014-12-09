@@ -14,6 +14,7 @@
 /apertium-gle-eng.gle-eng.t2x -text
 /apertium-gle-eng.gle-eng.t3x -text
 /apertium-gle-eng.gle.dix -text
+/apertium-gle-eng.pc.in -text
 /autogen.sh -text
 /configure.ac -text
 dev/fgb.eng-gle.txt -text
