@@ -17,6 +17,7 @@
 /apertium-gle-eng.pc.in -text
 /autogen.sh -text
 /configure.ac -text
+dev/fgb.eng-gle.dix -text
 dev/fgb.eng-gle.txt -text
 dev/gov-dept-en -text
 dev/gov-dept-ga -text
