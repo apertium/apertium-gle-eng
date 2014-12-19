@@ -36,10 +36,10 @@ TARGETS_COMMON=$(TARGETS_MONOLING) $(TARGETS_TRANSFER)
 ## gle transducer
 
 $(PREFIX1).automorf.hfst: $(AP_SRC1)/apertium-$(PREFIX1).$(PREFIX1).LR.att.gz
-	$(ZCAT) $< | hfst-txt2fst | hfst-invert | hfst-fst2fst -f olw -o $@
+	$(ZCAT) $< | hfst-txt2fst  | hfst-fst2fst -f olw -o $@
 
 $(PREFIX2).autogen.hfst: $(AP_SRC1)/apertium-$(PREFIX1).$(PREFIX1).LR.att.gz
-	$(ZCAT) $< | hfst-txt2fst | hfst-fst2fst -f olw -o $@
+	$(ZCAT) $< | hfst-txt2fst | hfst-invert| hfst-fst2fst -f olw -o $@
 
 ## eng transducer
 
