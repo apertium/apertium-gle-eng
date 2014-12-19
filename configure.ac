@@ -91,5 +91,4 @@ AP_CHECK_LING([1], [giella-gle])
 AP_MKINCLUDE
 
 
-#AC_OUTPUT([Makefile apertium-gle-eng.pc])
-AC_OUTPUT([Makefile])
+AC_OUTPUT([Makefile apertium-gle-eng.pc])
