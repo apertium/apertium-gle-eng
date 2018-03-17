@@ -34,3 +34,8 @@ dev/tools/irishionary/output/irishionary_2010-01-27_18-09.csv -text
 /eng-gle.prob -text
 /gle-eng.prob -text
 /modes.xml -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
