@@ -1,0 +1,10 @@
+[OXPgIukyIPkh#0] ^@-<num><op>$
+[/OXPgIukyIPkh]
+[XR7xbygiCzIW#0] ^year<n><com><pl><ecl>$
+[/XR7xbygiCzIW]
+[Y-Tp2lQnSyoy#0] ^NOW<adv><gn>$
+[/Y-Tp2lQnSyoy]
+[oxjCQhbe_iBv#0] ^@+<num><op>$
+[/oxjCQhbe_iBv]
+[sz-unt3hHKx6#0] ^@Londain<prop><n><f><com><sg>$
+[/sz-unt3hHKx6]

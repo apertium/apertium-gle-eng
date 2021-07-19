@@ -1,0 +1,10 @@
+{
+    "eng-gle": {
+        "input": "eng-gle-input.txt",
+        "mode": "eng-gle"
+    },
+    "gle-eng": {
+        "input": "gle-eng-input.txt",
+        "mode": "gle-eng"
+    }
+}
